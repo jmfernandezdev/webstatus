@@ -148,8 +148,9 @@ def dashboard():
 # Iniciar el sistema
 if __name__ == "__main__":
     websites = [
-        "https://example.com",
-        "https://google.com"
+        "https://vantag.es",
+        "https://turnerja.com",
+        "https://legalzone.es"
     ]
     
     monitor = WebsiteMonitor(websites)
